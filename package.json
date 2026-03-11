@@ -1,0 +1,28 @@
+{
+  "name": "ai_devsv4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ksiuda93/AI_DEVSv4#readme",
+  "bugs": {
+    "url": "https://github.com/ksiuda93/AI_DEVSv4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksiuda93/AI_DEVSv4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "openai": "^6.27.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.4.0",
+    "typescript": "^5.9.3"
+  }
+}

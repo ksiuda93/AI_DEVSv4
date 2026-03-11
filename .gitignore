@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Outputs (generated, not source)
+**/outputs/
+
+# Downloaded data files
+**/data/people.csv
+
+# Locks (keep package-lock.json if desired — remove line below)
+# package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
